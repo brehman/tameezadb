@@ -3,7 +3,7 @@
   "country": "FI",
   "timezone": "Europe/Helsinki",
   "source": "https://api.porssisahko.net/v2/latest-prices.json",
-  "fetchedAt": "2026-11-28T02:44:44.857Z",
+  "fetchedAt": "2026-11-28T11:54:27.690Z",
   "currency": "cents/kWh",
   "includesVat": true,
   "intervals": [
